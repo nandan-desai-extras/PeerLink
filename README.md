@@ -2,7 +2,7 @@
 
 # PeerLink
 
-People rely on instant messaging platforms for all kinds of sensitive conversations, including with their doctors, banks, families etc. Hence, privacy needs to be an integral part of any instant messaging platform. While most of the instant messaging apps aim at protecting user's privacy, they fail to achieve it by storing and analyzing the metadata. Instant messaging platforms with centralized architecture can be subjected to Data Exploitation and censorships which usually leads to suppression of free speech. To solve these issues, an instant messaging platform is required which should be either peer-to-peer or decentralized, end-to-end (E2E) encrypted, private (no processing of personally identifiable metadata) and safe (allowing free speech without the fear of oppressive governments or any company/corporation).
+People rely on instant messaging platforms for all kinds of sensitive conversations, including with their doctors, banks, families etc. Hence, privacy needs to be an integral part of any instant messaging platform. While most of the instant messaging apps aim at protecting user's privacy, they fail to achieve it by storing and analyzing the metadata. Instant messaging platforms with centralized architecture can be subjected to Data Exploitation and censorships which usually leads to suppression of free speech. To solve these issues, an instant messaging platform is required which should be either peer-to-peer or decentralized, end-to-end (E2E) encrypted and private (no processing of personally identifiable metadata).
 
 ## Introduction
 
